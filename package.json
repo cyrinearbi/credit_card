@@ -1,7 +1,7 @@
 {
   "name": "credit-card",
   "version": "1.0.0",
-  "description": "Vue.js wrapper for credit card https://github.com/jessepollak/card with vuetify example and pugjs and stylus.",
+  "description": "Vue.js wrapper for credit card https://github.com/jessepollak/card with vuetify example, pugjs and stylus.",
   "author": "Cyrine LARBI <cyrine.arbi@esprit.tn>",
   "keywords": [
     "card",
